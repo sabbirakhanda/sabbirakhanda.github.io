@@ -298,3 +298,16 @@ textarea {
 
 img.banner {
 }
+
+.bold {
+    font-weight: 700;
+}
+
+.no-bottom-margin {
+    margin-bottom: 0;
+}
+
+.no-margin {
+    margin-top: 0;
+    margin-bottom: 0;
+}
